@@ -37,19 +37,3 @@ Example:
 ```bash
 ./ltop -l access.log -f http-access-log -c 5 -e 10
 ```
-
-
-use https://blog.acolyer.org/2016/05/03/gorilla-a-fast-scalable-in-memory-time-series-database/
-
-https://github.com/dgryski/go-tsz/blob/
-
-http://www.vldb.org/pvldb/vol8/p1816-teller.pdf
-
-
-https://www.alibabacloud.com/blog/prometheus-the-unicorn-in-metrics_595168
-
-
-https://github.com/prometheus/prometheus/tree/master/tsdb/chunkenc
-
-https://pkg.go.dev/github.com/prometheus/prometheus/tsdb/chunkenc?tab=doc#Iterator
-
